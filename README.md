@@ -13,10 +13,10 @@
 
 ### Часть 2. Python
 
-* Введение в Python
-* Обзор стандартной библиотеки Python
-* Scipy: пакет `numpy`
-* Scipy: пакет `matplotlib`
+* [Введение в Python](L5_Python_Introduction.ipynb)
+* [Обзор стандартной библиотеки Python](L6_Python_Introduction2.ipynb)
+* [Scipy: пакет `numpy`](L7_numpy.ipynb)
+* [Scipy: пакет `matplotlib`](L8_matplotlib.ipynb)
 
 ### Бонус-лекция
 
